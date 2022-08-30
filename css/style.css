@@ -28,7 +28,31 @@
 }
 
 .text-bg {
-  background-color: rgba(0, 0, 0, 0.226);
+  background-color: rgba(0, 0, 0, 0.39);
+}
+
+#img-1-main {
+  width: 350px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.foot-p {
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: antiquewhite;
+}
+
+#btn-suscripcion {
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+  background-color: rgba(0, 0, 255, 0.678);
+  color: white;
+}
+#btn-suscripcion:hover {
+  color: white;
+  background-color: black;
 }
 
 /*# sourceMappingURL=style.css.map */
