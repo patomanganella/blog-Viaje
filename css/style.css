@@ -15,12 +15,20 @@
 }
 
 .navbar-nav {
-  gap: 150px;
+  gap: 50px;
 }
 
 .nav-item a {
   color: black;
   font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#titulo-home {
+  padding-top: 50px;
+}
+
+.text-bg {
+  background-color: rgba(0, 0, 0, 0.226);
 }
 
 /*# sourceMappingURL=style.css.map */
