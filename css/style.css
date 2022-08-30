@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link-2 {
+  font-family: "Times New Roman", Times, serif, Courier, monospace;
+  /* background-color: red; */
+  border: solid 5px black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-items-2 {
+  /* border: solid 5px  green; */
+  list-style-type: none;
+  display: flex;
+  gap: 100px;
+  align-items: center;
+}
+
+/*# sourceMappingURL=style.css.map */
