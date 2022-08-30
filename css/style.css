@@ -43,16 +43,50 @@
   justify-content: center;
 }
 
+.h2-acerca-de-mi {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 150px;
+  color: white;
+  letter-spacing: 10px;
+}
+
 .conteiner-img-acercademi img {
   width: 430px;
   height: 350px;
   object-fit: cover;
 }
 
+.section-sobremi {
+  padding-left: 100px;
+  padding-top: 50px;
+}
+
+.contenido-sobre-mi {
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 2.5px;
+}
+
+.contenido-sobre-mi2 {
+  padding-left: 100px;
+  padding-right: 100px;
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 2.5px;
+}
+
 .foot-p {
   padding-left: 100px;
   padding-right: 100px;
   background-color: antiquewhite;
+  padding-top: 50px;
+  margin-top: 50px;
 }
 
 #btn-suscripcion {
