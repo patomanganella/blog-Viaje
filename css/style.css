@@ -3,20 +3,24 @@
   padding: 0;
 }
 
-.nav-link-2 {
+.bg-nav {
   font-family: "Times New Roman", Times, serif, Courier, monospace;
-  /* background-color: red; */
-  border: solid 5px black;
-  display: flex;
-  justify-content: space-between;
+  background-color: antiquewhite;
 }
 
-.nav-items-2 {
-  /* border: solid 5px  green; */
+#navbarNav {
   list-style-type: none;
   display: flex;
-  gap: 100px;
-  align-items: center;
+  justify-content: center;
+}
+
+.navbar-nav {
+  gap: 150px;
+}
+
+.nav-item a {
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 /*# sourceMappingURL=style.css.map */

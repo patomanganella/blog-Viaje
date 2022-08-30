@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-nav{
+    font-family: 'Times New Roman', Times, serif, Courier, monospace;
+    // border: solid 3px black;
+    background-color: antiquewhite;
+   
+      
+}
+
+#navbarNav{
+    // border: solid 5px  green;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;   
+
+    
+}
+
+.navbar-nav{
+    gap: 150px;
+    
+}
+
+.nav-item a{
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
