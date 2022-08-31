@@ -81,6 +81,20 @@
   letter-spacing: 2.5px;
 }
 
+.img-section-barcelona {
+  display: flex;
+  width: 1500px;
+  height: 600px;
+  object-fit: cover;
+}
+
+.h2-barcelona {
+  color: white;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 5px;
+}
+
 .foot-p {
   padding-left: 100px;
   padding-right: 100px;
